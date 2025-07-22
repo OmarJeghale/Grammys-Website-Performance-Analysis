@@ -38,13 +38,6 @@ The goal was to determine whether the split improved performance metrics and to 
 
 ---
 
-## 📄 Full Report
-
-📄 [Download full project PDF](#) *(coming soon)*  
-
-Includes charts, full narrative analysis, and final business recommendations.
-
----
 
 ## 📌 Final Recommendation
 
